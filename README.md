@@ -5,7 +5,8 @@ A collection of movie guides covering release dates, casts, trailers, runtimes, 
 ## Movie Guides
 
 - [Resident Evil (2026) — Cast, Story, Runtime & Release Details](movies/resident-evil-2026.md)
-
+- [Street Fighter (2026) — Cast, Release Date, Trailer & Movie Details](movies/street-fighter-2026.md)
+  
 ---
 
 ## About This Repository
